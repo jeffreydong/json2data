@@ -1,0 +1,4 @@
+nose
+sphinx
+xlwings
+pandas
